@@ -1,0 +1,7 @@
+node_modules/
+**/target/
+my-app/dist/
+.env
+.env.*
+!.env.example
+*.log
